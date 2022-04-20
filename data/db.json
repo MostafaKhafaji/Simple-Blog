@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "title": "welcome to the blog",
+      "body": "lorem epsum lorem epsumlorem epsumlorem epsumlorem epsumlorem epsumlorem epsumlorem epsumlorem epsumlorem epsumlorem epsumlorem epsumlorem epsumlorem epsumlorem epsum",
+      "id": 1,
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "title": "top 5 css tips",
+      "body": "lorem epsum lorem",
+      "id": 2,
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "title": "das",
+      "body": "wqe",
+      "tags": [
+        "a7a",
+        "asd",
+        "wqe",
+        "tttt"
+      ],
+      "id": 3
+    }
+  ]
+}
